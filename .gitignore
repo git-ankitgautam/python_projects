@@ -1,0 +1,15 @@
+.vscode
+Properties
+Test.py
+CP_practice.py
+*.pyc
+*.txt
+.env
+__pycache__
+.pytest_cache
+rand.py
+*.xlsx
+test[1234567890].py
+RW files
+Coursera AI course
+Django for everybody - coursera
