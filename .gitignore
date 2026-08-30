@@ -15,3 +15,5 @@ Coursera AI course
 Django for everybody - coursera
 Q_*.py
 lad-gpt-0.1.0
+ChocolateDoom/*
+.gitignore
